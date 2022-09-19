@@ -25,6 +25,16 @@ We trained the models and selected the best model with the best validation loss,
 
 There are still some shortcoming in my final model, like it mix up American water spaniel and Boykin spaniel, and if supplied an image of a human, the identified resembling dog breed isn't very accurate, I think this is because of underfitting and I should add extra layers to extract more features and train it on more epoches to improve its performance.
 
+## Libraries Included:
 
+cv2
+glob - glob
+matplotlib
+numpy
+pandas
+random
+keras
+sklearn
+tqdm - tqdm
 
 
