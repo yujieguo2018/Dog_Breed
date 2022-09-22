@@ -39,3 +39,7 @@ tqdm - tqdm
 
 ## Link to my article:
 https://medium.com/@nicoleduang/want-to-know-what-breed-of-dog-you-resemble-b4255e8aa9dc
+
+## Reference:
+Learned the idea of validation plotting from here:
+https://github.com/lincalexa/udacity_dog_breed/blob/main/dog_app.ipynb
